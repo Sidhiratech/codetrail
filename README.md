@@ -6,10 +6,10 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 8
+- Total problems solved: 9
 - Easy problems: 3
 - Medium problems: 5
-- Hard problems: 0
+- Hard problems: 1
 - Languages used: 7
 - Last submission date: July 18, 2026
 
@@ -17,6 +17,7 @@ A record of my data structures and algorithms practice. This repository is autom
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Median of Two Sorted Arrays](hard/median-of-two-sorted-arrays/README.md) | Hard | 1 | [Code](hard/median-of-two-sorted-arrays/solution.txt) | Jul 18, 2026 |
 | [Two Sum](easy/two-sum/README.md) | Easy | 6 | [Code](easy/two-sum/solution.txt) | Jul 18, 2026 |
 | [Two Sum](easy/two-sum/README.md) | Easy | Java | [Code](easy/two-sum/solution.java) | Jul 18, 2026 |
 | [Two Sum](easy/two-sum/README.md) | Easy | 1 | [Code](easy/two-sum/solution.txt) | Jul 18, 2026 |
@@ -28,7 +29,7 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Language Breakdown
 
-- 1: 2
+- 1: 3
 - 12: 1
 - 26: 1
 - 29: 1
