@@ -1,2 +1,34 @@
-# codetrail
-Accepted coding submissions synced by CodeTrail.
+# CodeTrail
+
+> Solve it. Sync it. Show it.
+
+A record of my data structures and algorithms practice. This repository is automatically maintained by the CodeTrail Chrome extension.
+
+## Progress
+
+- Total problems solved: 1
+- Easy problems: 0
+- Medium problems: 1
+- Hard problems: 0
+- Languages used: 1
+- Last submission date: July 18, 2026
+
+## Recent Solutions
+
+| Problem | Difficulty | Language | Solution | Date |
+|---------|------------|----------|----------|------|
+| [Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters/README.md) | Medium | 1 | [Code](medium/longest-substring-without-repeating-characters/solution.txt) | Jul 18, 2026 |
+
+## Language Breakdown
+
+- 1: 1
+
+## Topic Progress
+
+Topic tracking is ready for future CodeTrail releases.
+
+## About CodeTrail
+
+CodeTrail converts accepted coding submissions into a structured GitHub portfolio so consistent practice becomes visible proof of progress.
+
+All code in this repository consists of my own accepted solutions and learning notes.
