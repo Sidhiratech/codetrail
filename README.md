@@ -6,9 +6,9 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 10
+- Total problems solved: 11
 - Easy problems: 3
-- Medium problems: 5
+- Medium problems: 6
 - Hard problems: 2
 - Languages used: 8
 - Last submission date: July 18, 2026
@@ -17,6 +17,7 @@ A record of my data structures and algorithms practice. This repository is autom
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Longest Palindromic Substring](medium/longest-palindromic-substring/README.md) | Medium | Java | [Code](medium/longest-palindromic-substring/solution.java) | Jul 18, 2026 |
 | [Median of Two Sorted Arrays](hard/median-of-two-sorted-arrays/README.md) | Hard | 41 | [Code](hard/median-of-two-sorted-arrays/solution.txt) | Jul 18, 2026 |
 | [Median of Two Sorted Arrays](hard/median-of-two-sorted-arrays/README.md) | Hard | 1 | [Code](hard/median-of-two-sorted-arrays/solution.txt) | Jul 18, 2026 |
 | [Two Sum](easy/two-sum/README.md) | Easy | 6 | [Code](easy/two-sum/solution.txt) | Jul 18, 2026 |
@@ -31,13 +32,13 @@ A record of my data structures and algorithms practice. This repository is autom
 ## Language Breakdown
 
 - 1: 3
+- Java: 2
 - 12: 1
 - 26: 1
 - 29: 1
 - 4: 1
 - 41: 1
 - 6: 1
-- Java: 1
 
 ## Topic Progress
 
