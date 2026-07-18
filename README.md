@@ -6,8 +6,8 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 5
-- Easy problems: 0
+- Total problems solved: 6
+- Easy problems: 1
 - Medium problems: 5
 - Hard problems: 0
 - Languages used: 5
@@ -17,6 +17,7 @@ A record of my data structures and algorithms practice. This repository is autom
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Two Sum](easy/two-sum/README.md) | Easy | 1 | [Code](easy/two-sum/solution.txt) | Jul 18, 2026 |
 | [Add Two Numbers](medium/add-two-numbers/README.md) | Medium | 29 | [Code](medium/add-two-numbers/solution.txt) | Jul 18, 2026 |
 | [Add Two Numbers](medium/add-two-numbers/README.md) | Medium | 26 | [Code](medium/add-two-numbers/solution.txt) | Jul 18, 2026 |
 | [Add Two Numbers](medium/add-two-numbers/README.md) | Medium | 4 | [Code](medium/add-two-numbers/solution.txt) | Jul 18, 2026 |
@@ -25,7 +26,7 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Language Breakdown
 
-- 1: 1
+- 1: 2
 - 12: 1
 - 26: 1
 - 29: 1
