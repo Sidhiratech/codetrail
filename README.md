@@ -6,22 +6,24 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 1
+- Total problems solved: 2
 - Easy problems: 0
-- Medium problems: 1
+- Medium problems: 2
 - Hard problems: 0
-- Languages used: 1
+- Languages used: 2
 - Last submission date: July 18, 2026
 
 ## Recent Solutions
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters/README.md) | Medium | 12 | [Code](medium/longest-substring-without-repeating-characters/solution.txt) | Jul 18, 2026 |
 | [Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters/README.md) | Medium | 1 | [Code](medium/longest-substring-without-repeating-characters/solution.txt) | Jul 18, 2026 |
 
 ## Language Breakdown
 
 - 1: 1
+- 12: 1
 
 ## Topic Progress
 
