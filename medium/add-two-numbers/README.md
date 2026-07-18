@@ -1,10 +1,11 @@
 # Add Two Numbers
 
 - Difficulty: Medium
-- Language: 4
+- Language: 26
 - Platform: LeetCode
 - Problem: [View on LeetCode](https://leetcode.com/problems/add-two-numbers/)
 - Submitted: July 18, 2026
+- Runtime: 0 ms
 
 ## Approach
 
