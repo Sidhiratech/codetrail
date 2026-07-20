@@ -5,6 +5,7 @@
 - Platform: LeetCode
 - Problem: [View on LeetCode](https://leetcode.com/problems/zigzag-conversion/)
 - Submitted: July 20, 2026
+- Runtime: 0 ms
 
 ## Approach
 
