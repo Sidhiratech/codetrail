@@ -6,9 +6,9 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 1
+- Total problems solved: 2
 - Easy problems: 0
-- Medium problems: 1
+- Medium problems: 2
 - Hard problems: 0
 - Languages used: 1
 - Last submission date: July 20, 2026
@@ -17,11 +17,12 @@ A record of my data structures and algorithms practice. This repository is autom
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Longest Palindromic Substring](medium/longest-palindromic-substring/README.md) | Medium | Java | [Code](medium/longest-palindromic-substring/solution.java) | Jul 20, 2026 |
 | [Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters/README.md) | Medium | Java | [Code](medium/longest-substring-without-repeating-characters/solution.java) | Jul 20, 2026 |
 
 ## Language Breakdown
 
-- Java: 1
+- Java: 2
 
 ## Topic Progress
 
