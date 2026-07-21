@@ -17,9 +17,9 @@ A record of my data structures and algorithms practice. This repository is autom
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters/README.md) | Medium | Java | [Code](medium/longest-substring-without-repeating-characters/solution.java) | Jul 20, 2026 |
 | [Zigzag Conversion](medium/zigzag-conversion/README.md) | Medium | Java | [Code](medium/zigzag-conversion/solution.java) | Jul 20, 2026 |
 | [Longest Palindromic Substring](medium/longest-palindromic-substring/README.md) | Medium | Java | [Code](medium/longest-palindromic-substring/solution.java) | Jul 20, 2026 |
-| [Longest Substring Without Repeating Characters](medium/longest-substring-without-repeating-characters/README.md) | Medium | Java | [Code](medium/longest-substring-without-repeating-characters/solution.java) | Jul 20, 2026 |
 
 ## Language Breakdown
 
